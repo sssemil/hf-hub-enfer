@@ -1,11 +1,11 @@
 [package]
-name = "hf-hub"
+name = "hf-hub-enfer"
 version = "0.3.2"
 edition = "2021"
-homepage = "https://github.com/huggingface/hf-hub"
+homepage = "https://github.com/sssemil/hf-hub-enfer"
 license = "Apache-2.0"
 documentation = "https://docs.rs/hf-hub"
-repository = "https://github.com/huggingface/hf-hub"
+repository = "https://github.com/sssemil/hf-hub-enfer"
 readme = "README.md"
 keywords = ["huggingface", "hf", "hub", "machine-learning"]
 description = """
